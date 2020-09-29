@@ -1,0 +1,3 @@
+git remote add origin https://github.com/kampfcl3/python-homework.git
+ git分支-M master 
+git push -u origin master
