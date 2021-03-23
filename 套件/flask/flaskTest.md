@@ -113,6 +113,6 @@ $ python manage.py shell    -->app(能找到被引入的 <Flask 'main'>)
 
 
 ## reference
-[wiki define](https://en.wikipedia.org/wiki/Flask_(web_framework))
-[Python Web Flask 實戰開發教學 - 簡介與環境建置](https://blog.techbridge.cc/2017/06/03/python-web-flask101-tutorial-introduction-and-environment-setup/)
+[wiki define](https://en.wikipedia.org/wiki/Flask_(web_framework))  
+[Python Web Flask 實戰開發教學 - 簡介與環境建置](https://blog.techbridge.cc/2017/06/03/python-web-flask101-tutorial-introduction-and-environment-setup/)   
 
